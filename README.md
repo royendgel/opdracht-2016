@@ -4,7 +4,7 @@ FINAL OPDRACHT (PASTECHI SELLING STORE)
 Skeleton for our last project in programming basic course.!  
 Please clone it on your own koding.com server using:
 
-`git clone git@github.com:royendgel/opdracht-2016.git`
+`git clone https://github.com/royendgel/opdracht-2016.git`
 
 if you receive an error make sure git is installed on your system.
 to install git use :

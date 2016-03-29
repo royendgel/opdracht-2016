@@ -11,6 +11,7 @@ db = SQLAlchemy(app)
 class Pastechi(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     flavor = db.Column(db.String(80), unique=True)
+    flavor = db.Column(db.String(150), unique=True)
     price = db.Column(db.String(120) )
     stock = db.Column(db.INT(120), default=0)
 
